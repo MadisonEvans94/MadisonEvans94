@@ -13,11 +13,27 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 
 -   🔭 I’m currently working on [Blue Cloud Music](https://github.com/MadisonEvans94/bluecloud-music)
 
--   🌱 I’m currently learning **Flutter, D3 JS, Pytorch**
+-   🌱 I’m currently learning:
+
+    -   **Flutter**: Mobile development
+    -   **D3 JS**: Advanced data visualization
+    -   **Pytorch**: Deep learning applications
+
+ <p></p>
 
 -   👯 I’m looking to collaborate on [Palette Pal](https://github.com/MadisonEvans94/PalettePal)
+    -   Frontend bug fixes
+    -   AWS configuration updates
+
+ <p></p>
 
 -   🤝 I’m looking for help with [Where To](https://github.com/BOILER-R00M/where-to)
+
+    -   Frontend bug fixes
+    -   API configuration updates
+    -   Backend database updates
+
+ <p></p>
 
 -   👨‍💻 All of my projects are available at [https://madison-evans.herokuapp.com/](https://madison-evans.herokuapp.com/)
 
