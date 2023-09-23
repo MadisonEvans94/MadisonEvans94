@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madison</h1>
-<h3 align="center">I'm a software engineer with a passion for creating beautiful and functional digital experiences</h3>
+<h2 align="center">I'm a software engineer with a passion for creating beautiful and functional digital experiences</h2>
+
+<h3>About Me</h3>
+<p>
+I'm a software engineer with roots in mechanical engineering, specializing in automation and robotics. After a 5-year stint at Intel as a Mechanical/Development Engineer, I pivoted towards software roles. To fast-track this transition, I completed a Full Stack Bootcamp in 2023, honing my skills in frontend and backend frameworks.
+</p>
+<p>
+I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in Machine Learning, with an expected graduation in 2024. My unique blend of engineering and software skills positions me at the intersection of web development, data analysis, and machine learning.
+</p>
 
 ---
 
@@ -17,7 +25,7 @@
 
 -   📫 How to reach me **m.corbinevans@gmail.com**
 
--   ⚡ Fun fact **I'm a music producer and love to make mixed media artwork**
+-   ⚡ Fun fact **I'm a music producer specializing in digital audio workstations like Ableton Live. Currently exploring the application of machine learning in sound design.**
 
 ---
 
@@ -27,7 +35,7 @@
 <a href="https://instagram.com/https://www.instagram.com/iambluecloudmusic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iambluecloudmusic/" height="30" width="40" /></a>
 <a href="https://medium.com/@m.corbinevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m.corbinevans" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
 <h4>Languages</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
