@@ -102,4 +102,4 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
 <h4>Other</h4>
-<a href="https://www.ableton.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/329832/abletonlive.svg" alt="Ableton Live" width="40" height="40"/> </a>
+<a href="https://www.ableton.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/329832/abletonlive.svg" alt="Ableton Live" width="40" height="40" class="invert-color"/> </a>
