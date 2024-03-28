@@ -11,19 +11,20 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 
 ---
 
--   🔭 I’m currently working on [Blue Cloud Music](https://github.com/MadisonEvans94/bluecloud-music)
+-   🔭 I’m currently working on [Blue Cloud Music](https://github.com/MadisonEvans94/bluecloud-music) & [WIPlab](https://github.com/MadisonEvans94/WIPlab-frontend)
 
 -   🌱 I’m currently learning:
 
-    -   **Flutter**: Mobile development
-    -   **D3 JS**: Advanced data visualization
+    -   **React Native**: Mobile development
+    -   **NextJS**: Optimized SSR techniques
+    -   **Docker/Github Actions/Local Stack**: CI/CD strategies and DevOps techniques 
     -   **Pytorch**: Deep learning applications
 
  <p></p>
 
 -   👯 I’m looking to collaborate on [Palette Pal](https://github.com/MadisonEvans94/PalettePal)
     -   Frontend bug fixes
-    -   AWS configuration updates
+    -   Backend Configuration Updates
 
  <p></p>
 
@@ -35,7 +36,7 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 
  <p></p>
 
--   👨‍💻 All of my projects are available at [https://madison-evans.herokuapp.com/](https://madison-evans.herokuapp.com/)
+-   👨‍💻 All of my demo projects are available at [https://madison-evans.herokuapp.com/](https://madison-evans.herokuapp.com/)
 
 -   💬 Ask me about **React, AWS & Cloud Architecture, Data Analysis & Data Visualization**
 
