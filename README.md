@@ -11,7 +11,7 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 
 ---
 
--   🔭 I’m currently working on [RAG Playground]([https://github.com/MadisonEvans94/bluecloud-music](https://github.com/MadisonEvans94/RAG_playground)) & [WIPlab](https://github.com/MadisonEvans94/WIPlab-frontend)
+-   🔭 I’m currently working on [RAG Playground](https://github.com/MadisonEvans94/RAG_playground)
 
 -   🌱 I’m currently learning:
 
