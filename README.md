@@ -11,14 +11,14 @@ I'm currently enrolled in Georgia Tech's online OMSCS program, specializing in M
 
 ---
 
--   🔭 I’m currently working on [Blue Cloud Music](https://github.com/MadisonEvans94/bluecloud-music) & [WIPlab](https://github.com/MadisonEvans94/WIPlab-frontend)
+-   🔭 I’m currently working on [RAG Playground]([https://github.com/MadisonEvans94/bluecloud-music](https://github.com/MadisonEvans94/RAG_playground)) & [WIPlab](https://github.com/MadisonEvans94/WIPlab-frontend)
 
 -   🌱 I’m currently learning:
 
-    -   **React Native**: Mobile development
-    -   **NextJS**: Optimized SSR techniques
-    -   **Docker/Github Actions/Local Stack**: CI/CD strategies and DevOps techniques 
-    -   **Pytorch**: Deep learning applications
+    -   **Data Science**: Techniques for data analysis and visualization
+    -   **Machine Learning**: Advanced algorithms and applications
+    -   **AI and Deep Learning**: Using PyTorch and TensorFlow for model development
+    -   **Big Data Technologies**: Exploring Hadoop, Spark, and data engineering practices
 
  <p></p>
 
